@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nd035-c4-Security-and-DevOps-3.UnitTestSolution/TestingSolution/Testing.iml" filepath="$PROJECT_DIR$/nd035-c4-Security-and-DevOps-3.UnitTestSolution/TestingSolution/Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nd035-c4-Security-and-DevOps-3.UnitTestSolution.iml" filepath="$PROJECT_DIR$/.idea/nd035-c4-Security-and-DevOps-3.UnitTestSolution.iml" />
+    </modules>
+  </component>
+</project>
